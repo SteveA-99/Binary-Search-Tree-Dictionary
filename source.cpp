@@ -1,8 +1,4 @@
 /*
-CS281 - Spring 2020
-Phone Book
-Steven Awakem
-5 / 8 / 20
 This is a dictionary that uses a binary search tree to add and search words
 */
 
